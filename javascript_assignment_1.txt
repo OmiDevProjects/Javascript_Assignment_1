@@ -1,0 +1,25 @@
+1). Explain the use of JavaScript ( or What you can do using a JavaScript)
+Ans: Javascript can be used in Frontend, Backend, APIs, Cloud. Javascript can do DOM (Document Oject Modal) Manipulation.
+
+2). What is the difference between client-side and server-side?
+Ans: There is a huge difference in client-side and server-side that is
+	1) Client-side is user interacte with components or website within the browser. Javascript, html, css sent to client for execution for further actions.
+	2) Server-side is where our data and our business logic stored.
+
+3). What is Nodejs?
+Ans: Node.js is kind of enviornment for javascript, that can be executed outside of a browser.
+
+4). Explain Scope in JavaScript.
+Ans: From the lecture we have perfect example regarding scope, let and var keywords.
+let keyword can have a Block Scope. which means that variable is accessible in that particular block.
+var keyword cannot have a block scope.
+
+5). JavaScript is asynchronous or synchronous.
+Ans: JavaScript is asynchronous
+
+6). JavaScript is Single-threaded or Multi-threaded.
+Ans: JavaScript is Single-threaded
+
+7). Explain DOM in your own word.
+Ans. DOM (Document object Model) defines a structure of HTML Documents, that provide a way to accessed and manipulate document.
+   
