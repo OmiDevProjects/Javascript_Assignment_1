@@ -1,0 +1,22 @@
+1) What is lexical structure?
+Ans: Lexical structure defines basic rules of how code should be written. example variable names, semicolons etc
+
+2) What is Unicode?
+Ans: unicode represent some unique numbers for characters or symbols
+
+3) Explain all the keyboards present in the JavaScript with examples.
+Ans: 1) if - If Statement for Executing particular condition (if num % 2 == 0)
+     2) for - for loop, for exceuting sequence of statements 
+        for(x=0; x<10; x++) {
+           console.log(x);
+        }
+     3) let - for declaring variables eg: let isEven, num;
+     4) const - for declaring constant variables, which will not change throughout the program.
+     5) while - while loop, for running set of code,until the condition is false
+    
+4) What are shorthand operators, explain with a suitable example?
+Ans: ternary operator: const answer = x >= 18 ? "You can vote" : "not allowed to vote";
+     if (isTrue)
+     
+5) What is “use Strict” in JavaScript?
+Ans: that the code should be executed in "strict mode". eg: Variable has to be declare first before assigning a value to it.
